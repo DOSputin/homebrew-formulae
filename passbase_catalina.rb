@@ -1,4 +1,4 @@
-class Passbase_Catalina < Formula
+class PassbaseCatalina < Formula
   desc "Keybase File System (KBFS)-backed CLI-based password manager"
   homepage "https://github.com/DOSputin/passbase_catalina"
   url "https://github.com/DOSputin/passbase_catalina/releases/download/v0.1.1/passbase"
